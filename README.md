@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lianysherrera
 - 👀 I'm interested in learning more about programming.
-- 🌱 I’m currently learning JavaScript, BootStrap
+- 🌱 I’m currently learning JavaScript, Bootstrap
 - 📫 How to contact me you can send me an email at lianys.herrera@hotmail.com 
 
 <!---
